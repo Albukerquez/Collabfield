@@ -1,0 +1,3 @@
+inherit_gem:
+  rubocop-template: default.yml
+inherit_from: .rubocop_todo.yml
